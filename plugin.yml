@@ -1,0 +1,11 @@
+name: TicTacToeForSpigot
+main: io.github.Toydotgame.Main
+version: 0.0.1
+description: A basic Tic Tac Toe game.
+author: Toydotgam
+prefix: Tic Tac Toe
+commands:
+   tictactoe:
+      description: Start a game or make a move in Tic Tac Toe.
+      aliases: ttt
+      usage: "Usage: /<command> [move <position>]"
